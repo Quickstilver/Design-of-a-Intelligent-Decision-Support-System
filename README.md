@@ -5,3 +5,8 @@
 -Code: Simple example in Minizinc of the solution of Resource Allocation Problem.
 
 
+
+
+Copyright of Stefano Balla, Dario Floris
+
+
